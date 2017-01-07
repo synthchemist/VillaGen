@@ -1,0 +1,21 @@
+To use the program you simply select the size, area and race from the dropdown menus. 
+You can then click on the "Generate Settlement" to make your settlement. 
+
+The program is setup in pythoon and the source ode cane be modified with little trouble. 
+
+The .txt folders contain things called upon by the program to gerenate names and descriptions. 
+
+You can add or modifiy this as you see fit so long as it is in the same format, being each name or description being on one line 
+
+eg. 
+
+name1
+name2
+name 3
+etc.
+
+dnd_test.py is the main "power house" of the program. if calls upon all the functions which are the other '.py' files. 
+This is done so as you can easily edit these functions as you see fit. For example you may like to change the number of Libraries in a settlement
+to do this just change the value asociated with the variable 'num_lib' in the 'town_maker.py' file. 
+
+

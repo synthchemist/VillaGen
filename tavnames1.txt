@@ -1,0 +1,10 @@
+Red
+Green
+Yellow
+Resting
+Young
+Old
+Stolen
+Lost
+Drunken
+Mad

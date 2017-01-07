@@ -1,0 +1,9 @@
+King
+Dragon
+Horse
+Salmon
+Prince
+Queen
+Hound
+Horse
+Hut
